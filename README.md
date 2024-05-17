@@ -5,7 +5,6 @@ Multi File Translator is a Python script designed to translate multiple text fil
 ![GitHub](https://img.shields.io/github/license/Lovama/Multi-Files-Translator)
 ![Python](https://img.shields.io/badge/python-3.8%2B-green.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Lovama/Multi-Files-Translator)
-[![GitHub stars](https://img.shields.io/github/stars/Lovama/Multi-Files-Translator?style=social)](https://github.com/Lovama/mass-text-translator/stargazers)
 
 ![Translator in Action](demo.gif)
 

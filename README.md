@@ -1,6 +1,6 @@
 # Multi-File-Translator
 
-A Python script that translates multiple text files in bulk using Google Translate. Users have the flexibility to choose the target language for translation, allowing for a wide range of translation options. The script efficiently handles multiple translation requests, making it suitable for various translation needs.
+A Python script that translates multiple text files in bulk using Google Translate.
 
 ![Translator Demo](demo.gif)
 

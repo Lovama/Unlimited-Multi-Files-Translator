@@ -1,4 +1,6 @@
-# 🌐 Mass Text Translator 📝
+# 🌐 Multi File Translator 📝
+
+Multi File Translator is a Python script designed to translate multiple text files in bulk. It utilizes deep learning-based translation services to provide accurate translations quickly and efficiently.
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Lovama/mass-text-translator)
 ![GitHub](https://img.shields.io/github/license/Lovama/mass-text-translator)
@@ -6,9 +8,10 @@
 
 ![Translator in Action](demo.gif)
 
-## 🚀 Overview
+## 🚀 Quick Start:
 
-Mass Text Translator is a Python script designed to translate multiple text files in bulk. It utilizes deep learning-based translation services to provide accurate translations quickly and efficiently.
+- Simply downlaod the [multi_files_translator.exe](multi_files_translator.exe)
+
 
 ### 🎉 Features
 

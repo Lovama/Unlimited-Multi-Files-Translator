@@ -1,10 +1,12 @@
 # 🌐 Multi File Translator 📝
 
-Multi File Translator is a Python script designed to translate multiple text files in bulk. It utilizes deep learning-based translation services to provide accurate translations quickly and efficiently.
-
 ![GitHub](https://img.shields.io/github/license/Lovama/Multi-Files-Translator)
 ![Python](https://img.shields.io/badge/python-3.8%2B-green.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Lovama/Multi-Files-Translator)
+
+Multi File Translator is a Python script designed to translate multiple text files in bulk. It utilizes deep learning-based translation services to provide accurate translations quickly and efficiently.
+
+
 
 ![Translator in Action](demo.gif)
 

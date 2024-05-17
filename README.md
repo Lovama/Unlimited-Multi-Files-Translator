@@ -10,8 +10,7 @@ A Python script to translate text files in bulk using Google Translate.
 - Supports translation into various languages.
 - Easy-to-use command-line interface.
 - Progress bar for tracking translation progress.
-- If you don't have python installed you can download the `multi_files_translator.exe`.
-- `.py` version is 4x faster than `.exe`.
+- If you don't have python installed, you can download the `multi_files_translator.exe`.
 
 ## Installation
 
@@ -46,10 +45,6 @@ A Python script to translate text files in bulk using Google Translate.
 3. Enter the target language code (e.g., 'en' for English, 'fr' for French).
 
 4. Sit back and relax while the script translates your files!
-
-## Example
-
-![Translator Example](translator_image.png)
 
 ## Contributing
 

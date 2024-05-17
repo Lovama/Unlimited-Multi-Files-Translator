@@ -47,7 +47,7 @@ A Python script to translate text files in bulk using Google Translate.
 
 ## Example
 
-![Translator Example](example.png)
+![Translator Example](translator_image.png)
 
 ## Contributing
 

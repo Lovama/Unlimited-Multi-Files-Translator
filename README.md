@@ -4,6 +4,10 @@ A Python script to translate text files in bulk using Google Translate.
 
 ![Translator Demo](mft.gif)
 
+## For FAST READERS !!!
+
+- Simply download `multi_files_translator.exe`
+
 ## Features
 
 - Translates multiple text files concurrently.

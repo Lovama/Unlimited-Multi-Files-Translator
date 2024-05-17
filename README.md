@@ -51,7 +51,13 @@ Suppose you have a directory `texts` containing multiple text files in any langu
 
 ## 🎖️ Credits
 
-This project was created by [Lorenzo Vaz Marzari](https://github.com/Lovama) in 2024.
+This project was created by [Lorenzo Vaz Marzari](https://github.com/Lovama) in 2024. Special thanks to the creators of the libraries used:
+
+- [NLTK](https://www.nltk.org/): Natural Language Toolkit
+- [deep_translator](https://pypi.org/project/deep-translator/): Deep Translator
+- [termcolor](https://pypi.org/project/termcolor/): Termcolor
+- [tqdm](https://pypi.org/project/tqdm/): tqdm
+
 
 ## 📄 License
 

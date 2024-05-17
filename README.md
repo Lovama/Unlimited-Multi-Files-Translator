@@ -10,7 +10,7 @@ Multi File Translator is a Python script designed to translate multiple text fil
 
 ## 🚀 Quick Start:
 
-- Simply downlaod the [multi_files_translator.exe](multi_files_translator.exe)
+- Simply download the [multi_files_translator.exe](multi_files_translator.exe)
 
 
 ### 🎉 Features

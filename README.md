@@ -1,67 +1,55 @@
-# Multi-File-Translator
+# 🌐 Mass Text Translator 📝
 
-A Python script that translates multiple text files in bulk using Google Translate.
+![GitHub last commit](https://img.shields.io/github/last-commit/Lovama/mass-text-translator)
+![GitHub](https://img.shields.io/github/license/Lovama/mass-text-translator)
+[![GitHub stars](https://img.shields.io/github/stars/Lovama/mass-text-translator?style=social)](https://github.com/Lovama/mass-text-translator/stargazers)
 
-![Translator Demo](demo.gif)
+![Translator in Action](translation.gif)
 
-## For FAST READERS !!!
+## 🚀 Overview
 
-- Simply download `multi_files_translator.exe`
+Mass Text Translator is a Python script designed to translate multiple text files in bulk. It utilizes deep learning-based translation services to provide accurate translations quickly and efficiently.
 
-## Features
+### 🎉 Features
 
-- Translates multiple text files concurrently.
-- Supports translation into various languages.
-- Easy-to-use command-line interface.
-- Progress bar for tracking translation progress.
-- If you don't have python installed, you can download the `multi_files_translator.exe`.
+- Translate multiple text files simultaneously
+- Supports a wide range of languages
+- Utilizes progress bars for real-time translation status
+- Easy-to-use command-line interface
 
-## Installation
+## 🛠️ Installation
 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/Lovama/Multi-File-Translator.git
+    git clone https://github.com/Lovama/mass-text-translator.git
     ```
 
-2. Navigate to the project directory:
-
-    ```bash
-    cd Multi-File-Translator
-    ```
-
-3. Install the required dependencies:
+2. Install the required dependencies:
 
     ```bash
     pip install -r requirements.txt
     ```
 
-## Usage
+## 📋 Usage
 
 1. Run the script:
 
     ```bash
-    python translator.py
+    python mass_text_translator.py
     ```
 
 2. Enter the folder path containing the text files you want to translate.
+3. Choose the target language for translation.
 
-3. Enter the target language code (e.g., 'en' for English, 'fr' for French).
+## 📝 Example
 
-4. Sit back and relax while the script translates your files!
+Suppose you have a directory `texts` containing multiple text files in English. Running the Mass Text Translator script and selecting French (`fr`) as the target language will translate all English text files into French.
 
-## Contributing
+## 🎖️ Credits
 
-Contributions are welcome! Please feel free to submit issues or pull requests.
+This project was created by [Lorenzo Vaz Marzari](https://github.com/Lovama) in 2024.
 
-## Credits
+## 📄 License
 
-- Developed by [Lorenzo Vaz Marzari](https://github.com/Lovama)
-- Powered by [Google Translator](https://pypi.org/project/deep-translator/)
-- Built with [NLTK](https://www.nltk.org/) and [termcolor](https://pypi.org/project/termcolor/)
-- Progress bar by [tqdm](https://pypi.org/project/tqdm/)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
+This project is licensed under the [MIT License](LICENSE).

@@ -25,7 +25,7 @@ Multi File Translator is a Python script designed to translate multiple text fil
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/Lovama/mass-text-translator.git
+    git clone https://github.com/Lovama/Multi-Files-Translator.git
     ```
 
 2. Install the required dependencies:
@@ -39,7 +39,7 @@ Multi File Translator is a Python script designed to translate multiple text fil
 1. Run the script:
 
     ```bash
-    python mass_text_translator.py
+    python multi-files-translator.py
     ```
 
 2. Enter the folder path containing the text files you want to translate.
@@ -47,7 +47,7 @@ Multi File Translator is a Python script designed to translate multiple text fil
 
 ## 📝 Example
 
-Suppose you have a directory `texts` containing multiple text files in English. Running the Mass Text Translator script and selecting French (`fr`) as the target language will translate all English text files into French.
+Suppose you have a directory `texts` containing multiple text files in any language. Running the Multi-Files-Translator script and selecting French (`fr`) as the target language will translate all text files into French.
 
 ## 🎖️ Credits
 

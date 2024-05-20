@@ -12,7 +12,7 @@
 
 ## 🚀 FAST READERS SECTION:
 
-- Simply download the [multi_files_translator.exe](https://github.com/Lovama/Unlimited-Multi-Files-Translator/releases/download/v1.0.0/unlimited_multi_files_translator.exe) 
+- Simply download the [unlimited_multi_files_translator.exe](https://github.com/Lovama/Unlimited-Multi-Files-Translator/releases/download/v1.0.0/unlimited_multi_files_translator.exe) 
 
 
 ## 🎉 Features

@@ -1,4 +1,4 @@
-# 🌐 Multi File Translator 📝
+# 🌐 Unlimited Multi File Translator 📝
 
 ![GitHub](https://img.shields.io/github/license/Lovama/Multi-Files-Translator)
 ![Python](https://img.shields.io/badge/python-3.8%2B-green.svg)
@@ -12,7 +12,7 @@ Multi File Translator is a Python script designed to translate multiple text fil
 
 ## 🚀 FAST READERS SECTION:
 
-- Simply download the [multi_files_translator.exe](multi_files_translator.exe)
+- Simply download the [multi_files_translator.exe](https://drive.google.com/file/d/1vQIuaZxZtDiABd_ON8yPMNzJjLFP-Slf/view?usp=drive_link) 
 
 
 ## 🎉 Features

@@ -41,7 +41,7 @@
 1. Run the script:
 
     ```bash
-    python multi-files-translator.py
+    python unlimited-multi-files-translator.py
     ```
 
 2. Enter the folder path containing the text files you want to translate.
